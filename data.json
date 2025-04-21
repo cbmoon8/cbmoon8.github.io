@@ -8,7 +8,6 @@
     "contact": [
       { "id": 0, "name": "Email", "href": "cbmoon8@naver.com", "isEmail": true },
       { "id": 1, "name": "Github", "href": "https://github.com/cbmoon8" }
-      //{ "id": 2, "name": "Blog", "href": "https://velog.io/@honggildong" }
     ]
   },
 
