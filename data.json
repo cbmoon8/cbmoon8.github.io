@@ -14,16 +14,35 @@
   "workExperience": [
     {
       "id": 0,
-      "name": "커피프린스 1호점",
-      "position": "Front-end Engineer",
-      "period": ["2019. 01", "2019. 09"]
+      "name": "문화센터/문화홀 시스템 운영",
+      "position": "System Manager/Developer",
+      "period": ["2015. 03", "2022. 11"]
     },
     {
       "id": 1,
-      "name": "커피프린스 2호점",
-      "position": "바리스타",
-      "period": ["2022. 01", "now"]
+      "name": "법인영업 시스템 운영",
+      "position": "System Manager/Developer",
+      "period": ["2022. 11", "now"]
+    },
+    {
+      "id": 2,
+      "name": "팀 품질 담당자",
+      "position": "QC - Quality Control",
+      "period": ["2023. 08", "now"]
+    },
+    {
+      "id": 3,
+      "name": "맞춤셔츠 시스템 운영",
+      "position": "System Manager/Developer",
+      "period": ["2024. 06", "now"]
+    },
+    {
+      "id": 4,
+      "name": "세일리지(고객혜택) 시스템 운영",
+      "position": "System Manager/Developer",
+      "period": ["2024. 06", "now"]
     }
+
   ],
 
   "project": [
