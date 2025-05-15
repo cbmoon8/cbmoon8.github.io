@@ -1,6 +1,6 @@
 {
   "resumeTitle": {
-    "title": "Choi Byung Moon"
+    "title": "CHOIBYUNGMOON"
   },
 
   "information": {
@@ -48,23 +48,93 @@
   "project": [
     {
       "id": 0,
-      "name": "첫번째 팀 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
+      "name": "아카데미 시스템 재구축 PJT",
+      "description": "백화점 문화센터 백오피스/온라인 대고객 시스템 재구축 프로젝트",
+      "webUrl": "",
+      "repoUrl": "",
       "isTeam": true,
-      "period": ["2022. 07", "2022. 09"],
-      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+      "period": ["2015. 06", "2016. 06"],
+      "stack": ["Spring", "Java", "JSP/HTML/CSS", "JavaScript", "JQuery", "Websquare"]
     },
     {
       "id": 1,
-      "name": "첫번째 개인 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
-      "isTeam": false,
-      "period": ["2022. 10", "2022. 11"],
-      "stack": ["JavaScript", "HTML/CSS"]
+      "name": "신세계 신한 제휴카드 도입 PJT",
+      "description": "신세계 제휴카드 추가에 따른 유관시스템 대응 개발 프로젝트",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": true,
+      "period": ["2017. 01", "2017. 04"],
+      "stack": ["Java", "PL/SQL", "Socket", "Shell Script"]
+    },
+    {
+      "id": 2,
+      "name": "신세계 하나 제휴카드 도입 PJT",
+      "description": "신세계 제휴카드 추가에 따른 유관시스템 대응 개발 프로젝트",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": true,
+      "period": ["2018. 08", "2018. 11"],
+      "stack": ["Java", "PL/SQL", "Socket", "Shell Script"]
+    },
+    {
+      "id": 3,
+      "name": "카카오페이 결제수단 도입 PJT",
+      "description": "백화점 신규 결제수단 추가에 따른 유관시스템 대응 개발 프로젝트",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": true,
+      "period": ["2020. 03", "2020. 06"],
+      "stack": ["Java", "PL/SQL", "Socket"]
+    },
+    {
+      "id": 4,
+      "name": "대전 통합테넌트 시스템 구축 PJT",
+      "description": "백화점 신규 업무 추가에 따른 관련 시스템 개발 프로젝트",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": true,
+      "period": ["2020. 03", "2020. 06"],
+      "stack": ["Spring", "Java", "JSP/HTML/CSS", "JavaScript", "JQuery", "Websquare"]
+    },
+    {
+      "id": 5,
+      "name": "페이코인 결제수단 도입 PJT",
+      "description": "백화점 신규 결제수단 추가에 따른 유관시스템 대응 개발 프로젝트",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": true,
+      "period": ["2022. 04", "2022. 08"],
+      "stack": ["Java", "PL/SQL", "Socket"]
+    },
+    {
+      "id": 6,
+      "name": "스마일페이 결제수단 도입 PJT",
+      "description": "백화점 신규 결제수단 추가에 따른 유관시스템 대응 개발 프로젝트",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": true,
+      "period": ["2022. 08", "2022. 12"],
+      "stack": ["Java", "PL/SQL", "Socket"]
+    },
+    {
+      "id": 7,
+      "name": "신세계 남산 예약관리 시스템 구축 PJT",
+      "description": "백화점 신규 결제수단 추가에 따른 유관시스템 대응 개발 프로젝트",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": true,
+      "period": ["2022. 11", "2023. 09"],
+      "stack": ["Java", "PL/SQL", "Socket"]
+    },
+    {
+      "id": 8,
+      "name": "백화점 차세대 대응개발 PJT",
+      "description": "백화점 차세대 전환 프로젝트에 따른 유관시스템 개발 대응 프로젝트",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": true,
+      "period": ["2022. 12", "now"],
+      "stack": ["Spring", "Java", "Apache", "Websquare"]
     }
   ],
 

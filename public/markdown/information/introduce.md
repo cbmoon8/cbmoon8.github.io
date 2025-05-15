@@ -1,7 +1,4 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 협업을 좋아하고 잘하는 개발자 최병문입니다.
+  - 혼자 일하는 것보다 여러 사람과 협업하며 함께 일하는 것을 좋아합니다.
+  - 취미도 팀 스포츠를 즐기는 것이고, 협업하며 함께 성장하는 과정에서 성취를 느낍니다. 문제점을 찾고 개선하는 것을 좋아하며 이를 공유하는 것을 즐깁니다.
+  - 또한, 남들이 찾지 못하는 문제를 분석하고 그 문제를 해결할 때 행복함을 느낍니다.
